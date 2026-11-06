@@ -5,7 +5,7 @@ Statusline minimalista para o Claude Code, desenhada como uma caixa:
 ```
 ╭──────────────── ~/projeto ──────────────────────────────────────╮
 │ [Sonnet 5.5 ◑ high]   [▤ Context 16%]   ◷ 2h [5h ████▒▒▒ 55%] │
-│ [CAVEMAN:ULTRA]                          ◷ 3d [7d ██████▒▒▒ 88%] │
+│ [CAVEMAN:ULTRA]                          ◷ 3d [7d ██████▒ 88%] │
 ╰─────────────────────────────────────────────────────────────────╯
 ```
 
