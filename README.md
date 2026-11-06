@@ -3,10 +3,10 @@
 Statusline minimalista para o Claude Code, desenhada como uma caixa:
 
 ```
-╭──────────────── ~/projeto ────────────────╮
-│ [Sonnet 5.5 ◑ high]   [▤ Context 16%]   ◷ 2h [5h ████░░░ 55%] │
-│ [CAVEMAN:ULTRA]                         ◷ 3d [7d ██████░ 88%] │
-╰───────────────────────────────────────────╯
+╭──────────────── ~/projeto ──────────────────────────────────────╮
+│ [Sonnet 5.5 ◑ high]   [▤ Context 16%]   ◷ 2h [5h ████▒▒▒ 55%] │
+│ [CAVEMAN:ULTRA]                          ◷ 3d [7d ██████▒▒▒ 88%] │
+╰─────────────────────────────────────────────────────────────────╯
 ```
 
 Mostra o diretório atual, o modelo com o nível de effort, o uso do contexto e os limites de uso de 5 horas (`5h`) e 7 dias (`7d`), com o tempo restante até o reset. As colunas da direita somem sozinhas quando o terminal é estreito.
