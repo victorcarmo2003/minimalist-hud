@@ -1,0 +1,10 @@
+{
+  "name": "minimalist-hud",
+  "version": "0.1.0",
+  "description": "Statusline minimalista: modelo, effort, contexto e limites de uso",
+  "author": { "name": "H4K0R" },
+  "homepage": "https://github.com/victorcarmo2003/minimalist-hud",
+  "repository": "https://github.com/victorcarmo2003/minimalist-hud",
+  "license": "MIT",
+  "keywords": ["statusline", "hud", "claude-code"]
+}

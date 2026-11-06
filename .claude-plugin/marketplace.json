@@ -1,0 +1,14 @@
+{
+  "name": "minimalist-hud",
+  "description": "Statusline minimalista para Claude Code",
+  "owner": { "name": "H4K0R" },
+  "plugins": [
+    {
+      "name": "minimalist-hud",
+      "source": "./",
+      "description": "Statusline em caixa: modelo/effort, contexto e limites 5h/7d.",
+      "category": "monitoring",
+      "tags": ["statusline", "hud"]
+    }
+  ]
+}
